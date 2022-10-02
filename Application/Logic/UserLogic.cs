@@ -41,4 +41,9 @@ public class UserLogic : IUserLogic
         if (userName.Length > 15)
             throw new Exception("Username must be less than 16 characters!");
     }
+
+    public Task<IEnumerable<User>> GetAsync(SearchUserParametersDto searchParameters)
+    {
+        return userDao.GetAsync(searchParameters);
+    }
 }
