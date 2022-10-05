@@ -13,5 +13,42 @@
       "UserName": "mateo3"
     }
   ],
-  "Todos": []
+  "Todos": [
+    {
+      "Id": 1,
+      "Owner": {
+        "Id": 1,
+        "UserName": "Mateo"
+      },
+      "Title": "string",
+      "IsCompleted": false
+    },
+    {
+      "Id": 2,
+      "Owner": {
+        "Id": 1,
+        "UserName": "Mateo"
+      },
+      "Title": "string",
+      "IsCompleted": false
+    },
+    {
+      "Id": 3,
+      "Owner": {
+        "Id": 3,
+        "UserName": "mateo3"
+      },
+      "Title": "clean up",
+      "IsCompleted": false
+    },
+    {
+      "Id": 4,
+      "Owner": {
+        "Id": 1,
+        "UserName": "Mateo"
+      },
+      "Title": "clean up",
+      "IsCompleted": false
+    }
+  ]
 }

@@ -46,4 +46,19 @@ public class TodosController : ControllerBase
             return StatusCode(500, e.Message);
         }
     }
+
+    [HttpPatch]
+    public async Task<ActionResult<Todo>> UpdateAsync([FromBody] TodoUpdateDto dto)
+    {
+        try
+        {
+            await todoLogic.UpdateAsync(dto);
+            return Ok();
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+            return StatusCode(500, e.Message);
+        }
+    }
 }
