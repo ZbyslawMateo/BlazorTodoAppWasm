@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xeK+AtMpShUk/rltHp0IHdsRl3SwzA3x8Hpw4hdWtRw=",
+  "Hash": "NN4GD1+mcFdlsShi3LeIv1Vt+OKK0JA8NprfrO9alM8=",
   "Source": "BlazorWASM",
   "BasePath": "/",
   "Mode": "Root",
@@ -7240,6 +7240,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\icons\\clear_funnel.png"
+    },
+    {
+      "Identity": "C:\\Users\\IZO21\\RiderProjects\\BlazorTodoAppWasm\\BlazorWASM\\wwwroot\\icons\\edit.gif",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\IZO21\\RiderProjects\\BlazorTodoAppWasm\\BlazorWASM\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "icons/edit.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icons\\edit.gif"
     },
     {
       "Identity": "C:\\Users\\IZO21\\RiderProjects\\BlazorTodoAppWasm\\BlazorWASM\\wwwroot\\icons\\funnel.png",

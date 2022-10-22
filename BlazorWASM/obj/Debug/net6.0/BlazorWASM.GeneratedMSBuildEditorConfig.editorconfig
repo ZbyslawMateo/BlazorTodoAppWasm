@@ -22,6 +22,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/IZO21/RiderProjects/BlazorTodoAppWasm/BlazorWASM/Pages/CounterExample.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlckV4YW1wbGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/IZO21/RiderProjects/BlazorTodoAppWasm/BlazorWASM/Pages/CreateTodo.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlVG9kby5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -30,8 +34,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlVXNlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/IZO21/RiderProjects/BlazorTodoAppWasm/BlazorWASM/Pages/EditTodo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdFRvZG8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/IZO21/RiderProjects/BlazorTodoAppWasm/BlazorWASM/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/IZO21/RiderProjects/BlazorTodoAppWasm/BlazorWASM/Pages/UIComponents/CounterComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVUlDb21wb25lbnRzXENvdW50ZXJDb21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/IZO21/RiderProjects/BlazorTodoAppWasm/BlazorWASM/Shared/SurveyPrompt.razor]
@@ -45,6 +57,10 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/IZO21/RiderProjects/BlazorTodoAppWasm/BlazorWASM/Pages/UIComponents/FancyCheckBox.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVUlDb21wb25lbnRzXEZhbmN5Q2hlY2tCb3gucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-6xhdtlkuo4
+
+[C:/Users/IZO21/RiderProjects/BlazorTodoAppWasm/BlazorWASM/Pages/UIComponents/Modal.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVUlDb21wb25lbnRzXE1vZGFsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-sp2tgkowl2
 
 [C:/Users/IZO21/RiderProjects/BlazorTodoAppWasm/BlazorWASM/Pages/ViewTodos.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1RvZG9zLnJhem9y
