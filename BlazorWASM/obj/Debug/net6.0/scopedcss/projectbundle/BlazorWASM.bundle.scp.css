@@ -1,29 +1,63 @@
-/* /Pages/CreateUser.razor.rz.scp.css */
-.card[b-lmj193ty0n] {
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    transition: 0.3s;
-    width: 250px;
-    padding: 25px;
-    text-align: center;
-    margin: auto;
-    margin-top: 50px;
-    border-radius: 15px;
+/* /Pages/UIComponents/FancyCheckBox.razor.rz.scp.css */
+.checkbox-container[b-6xhdtlkuo4] {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
 }
 
-.field[b-lmj193ty0n] {
-    margin-top: 20px;
+.checkbox-input[b-6xhdtlkuo4] {
+    position: absolute;
+    transform: scale(0);
 }
 
-.acceptbtn[b-lmj193ty0n] {
-    background-color:lightgreen;
+.checkbox-input:checked ~ .checkbox-span[b-6xhdtlkuo4] {
+    transform: rotate(45deg);
+    width: 15px;
+    margin-left: 8px;
+    border-color: #24c78e;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    border-radius: 0;
+}
+
+.checkbox-span[b-6xhdtlkuo4] {
+    display: block;
+    width: inherit;
+    height: inherit;
+    border: 3px solid #434343;
+    border-radius: 6px;
+    transition: all 0.375s;
+}
+/* /Pages/ViewTodos.razor.rz.scp.css */
+.filter-bar[b-p9dzi0ojcg] {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 5px;
+    display: inline-block;
+    margin: 10px;
+}
+
+.funnel[b-p9dzi0ojcg]{
+    width:30px;
+    height:30px;
+    cursor: pointer;
+}
+
+.filter[b-p9dzi0ojcg] {
+    border: 1px solid #ccc;
     border-radius: 5px;
     padding: 5px;
-    padding-left: 10px;
-    padding-right: 10px;
+    margin: 5px;
+    text-align: center;
 }
-
-.button-row[b-lmj193ty0n]{
-    margin-top: 15px;
+/* /Pages/ViewUsers.razor.rz.scp.css */
+.user-card[b-b8bn5keb44] {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    display: inline-block;
+    margin: 25px;
+    padding: 15px;
+    border-radius: 10px;
 }
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-jk00ermrez] {

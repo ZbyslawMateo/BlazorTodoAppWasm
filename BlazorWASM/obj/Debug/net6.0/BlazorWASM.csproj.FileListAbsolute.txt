@@ -820,6 +820,9 @@ C:\Users\IZO21\RiderProjects\BlazorTodoAppWasm\BlazorWASM\obj\Debug\net6.0\build
 C:\Users\IZO21\RiderProjects\BlazorTodoAppWasm\BlazorWASM\obj\Debug\net6.0\blazor.boot.json
 C:\Users\IZO21\RiderProjects\BlazorTodoAppWasm\BlazorWASM\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\IZO21\RiderProjects\BlazorTodoAppWasm\BlazorWASM\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\IZO21\RiderProjects\BlazorTodoAppWasm\BlazorWASM\obj\Debug\net6.0\scopedcss\Pages\UIComponents\FancyCheckBox.razor.rz.scp.css
+C:\Users\IZO21\RiderProjects\BlazorTodoAppWasm\BlazorWASM\obj\Debug\net6.0\scopedcss\Pages\ViewTodos.razor.rz.scp.css
+C:\Users\IZO21\RiderProjects\BlazorTodoAppWasm\BlazorWASM\obj\Debug\net6.0\scopedcss\Pages\ViewUsers.razor.rz.scp.css
 C:\Users\IZO21\RiderProjects\BlazorTodoAppWasm\BlazorWASM\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
 C:\Users\IZO21\RiderProjects\BlazorTodoAppWasm\BlazorWASM\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\Users\IZO21\RiderProjects\BlazorTodoAppWasm\BlazorWASM\obj\Debug\net6.0\scopedcss\bundle\BlazorWASM.styles.css
@@ -829,4 +832,3 @@ C:\Users\IZO21\RiderProjects\BlazorTodoAppWasm\BlazorWASM\obj\Debug\net6.0\Blazo
 C:\Users\IZO21\RiderProjects\BlazorTodoAppWasm\BlazorWASM\obj\Debug\net6.0\refint\BlazorWASM.dll
 C:\Users\IZO21\RiderProjects\BlazorTodoAppWasm\BlazorWASM\obj\Debug\net6.0\BlazorWASM.pdb
 C:\Users\IZO21\RiderProjects\BlazorTodoAppWasm\BlazorWASM\obj\Debug\net6.0\ref\BlazorWASM.dll
-C:\Users\IZO21\RiderProjects\BlazorTodoAppWasm\BlazorWASM\obj\Debug\net6.0\scopedcss\Pages\CreateUser.razor.rz.scp.css

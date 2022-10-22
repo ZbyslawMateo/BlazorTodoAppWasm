@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ud9T9lq9yoKee6nskcNFIcCvnYhRvYMJsNAXt+kQAVI=",
+  "Hash": "xeK+AtMpShUk/rltHp0IHdsRl3SwzA3x8Hpw4hdWtRw=",
   "Source": "BlazorWASM",
   "BasePath": "/",
   "Mode": "Root",
@@ -7174,6 +7174,23 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
+      "Identity": "C:\\Users\\IZO21\\RiderProjects\\BlazorTodoAppWasm\\BlazorWASM\\wwwroot\\css\\styles.css",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\IZO21\\RiderProjects\\BlazorTodoAppWasm\\BlazorWASM\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
       "Identity": "C:\\Users\\IZO21\\RiderProjects\\BlazorTodoAppWasm\\BlazorWASM\\wwwroot\\favicon.ico",
       "SourceId": "BlazorWASM",
       "SourceType": "Discovered",
@@ -7206,6 +7223,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\icon-192.png"
+    },
+    {
+      "Identity": "C:\\Users\\IZO21\\RiderProjects\\BlazorTodoAppWasm\\BlazorWASM\\wwwroot\\icons\\clear_funnel.png",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\IZO21\\RiderProjects\\BlazorTodoAppWasm\\BlazorWASM\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "icons/clear_funnel.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icons\\clear_funnel.png"
+    },
+    {
+      "Identity": "C:\\Users\\IZO21\\RiderProjects\\BlazorTodoAppWasm\\BlazorWASM\\wwwroot\\icons\\funnel.png",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\IZO21\\RiderProjects\\BlazorTodoAppWasm\\BlazorWASM\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "icons/funnel.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icons\\funnel.png"
     },
     {
       "Identity": "C:\\Users\\IZO21\\RiderProjects\\BlazorTodoAppWasm\\BlazorWASM\\wwwroot\\index.html",

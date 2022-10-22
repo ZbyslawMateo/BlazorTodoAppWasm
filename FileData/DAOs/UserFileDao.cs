@@ -42,8 +42,7 @@ public class UserFileDao : IUserDao
         IEnumerable<User> users = context.Users.AsEnumerable();
         if (searchParameters.UsernameContains != null)
         {
-            users = context.Users.Where(u =>
-                u.UserName.Contains(searchParameters.UsernameContains, StringComparison.OrdinalIgnoreCase));
+            users = context.Users.Where(u => u.UserName.Contains(searchParameters.UsernameContains, StringComparison.OrdinalIgnoreCase));
         }
 
         return Task.FromResult(users);

@@ -12,4 +12,5 @@ public interface ITodoDao
     Task<Todo> GetByIdAsync(int id);
     
     Task UpdateAsync(Todo toUpdate);
+    Task DeleteAsync(int id);
 }

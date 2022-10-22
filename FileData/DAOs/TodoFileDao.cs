@@ -46,7 +46,7 @@ public class TodoFileDao : ITodoDao
             todos = todos.Where(t => t.Owner.Id == searchParameters.UserId);
         }
 
-        if (searchParameters.CompletedStatus == null)
+        if (searchParameters.CompletedStatus != null)
         {
             todos = todos.Where(t => t.IsCompleted == searchParameters.CompletedStatus);
         }
@@ -78,6 +78,19 @@ public class TodoFileDao : ITodoDao
         context.Todos.Remove(existing);
         context.Todos.Add(toUpdate);
         
+        context.SaveChanges();
+
+        return Task.CompletedTask;
+    }
+    public Task DeleteAsync(int id)
+    {
+        Todo? existing = context.Todos.FirstOrDefault(todo => todo.Id == id);
+        if (existing == null)
+        {
+            throw new Exception($"Todo with id {id} does not exist!");
+        }
+
+        context.Todos.Remove(existing); 
         context.SaveChanges();
 
         return Task.CompletedTask;
